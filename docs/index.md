@@ -22,11 +22,14 @@ Ja, jeg vet at fargene er feil, give me a break.
 
 ![Tydeligvis](img/slengere.svg)
 
+Jens Ingvald Olsen og Inga Marie Kielland er populære!
+
 ## Hva om vi dropper førstekandidatene?
 
 ![Heisann](img/slengere-uten-nr1.svg)
 
-Ragni Ramberg er tydeligvis populær utenfor Ap.
+Ragni Ramberg er så populær at hun er synlig selv med Jens
+Ingvald-skala på Y-aksen.
 
 ## Personstemmer per listestemme
 
