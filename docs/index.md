@@ -22,7 +22,7 @@ Ja, jeg vet at fargene er feil, give me a break.
 
 ![Tydeligvis](img/slengere.svg)
 
-Jens Ingvald Olsen og Inga Marie Kielland er populære!
+Jens Ingvald Olsen og Ingrid Marie Kielland er populære!
 
 ## Hva om vi dropper førstekandidatene?
 
